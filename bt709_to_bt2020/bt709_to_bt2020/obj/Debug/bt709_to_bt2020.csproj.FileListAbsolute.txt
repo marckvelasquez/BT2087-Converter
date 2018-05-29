@@ -1,0 +1,21 @@
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.exe.config
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.exe
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.pdb
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\DecimalMath.DecimalEx.dll
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\DecimalMath.DecimalEx.xml
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.csprojResolveAssemblyReference.cache
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.csproj.CoreCompileInputs.cache
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.csproj.CopyComplete
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.exe
+C:\Users\Marck\source\repos\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.pdb
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.exe.config
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.exe
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.pdb
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.csprojResolveAssemblyReference.cache
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.exe
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.pdb
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\DecimalMath.DecimalEx.dll
+C:\Users\mavelasquez\Documents\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\DecimalMath.DecimalEx.xml
+H:\STAFF FOLDERS\mvelasquez\Executable Application\C#\bt709_to_bt2020\bt709_to_bt2020\bin\Debug\bt709_to_bt2020.exe.config
+H:\STAFF FOLDERS\mvelasquez\Executable Application\C#\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.exe
+H:\STAFF FOLDERS\mvelasquez\Executable Application\C#\bt709_to_bt2020\bt709_to_bt2020\obj\Debug\bt709_to_bt2020.pdb
